@@ -1,0 +1,39 @@
+"start test fork 26/07/2021 16/00" 
+11августа 15:00
+main: 1628683200 
+testnet: 1628683201 
+regnet: 1628683202
+
+
+#main
+
+algorithm: scrypt
+merkle hash: 89c6a8fac84a6bf0886a0c9cb269f5cd8a0207aaa5398d969c76af6e5fac5689
+pszTimestamp: start test fork 06/08/2021 15/00
+pubkey: 048e13f060cc67d113e68baf0400bb0b37fbdce7a32a6f84f2ae30ae1f9868c20ca30b315607f4736f290e13a69ae54555d02eb8b51f41403494d10a0da631e5d0
+time: 1628683200
+bits: 0x1e0ffff0
+nonce: 1092231
+genesis hash: dbc69dfc7e89e41dd919456bffd21a6de34ad60aaeddf19c8c81c2e2cfec417f
+
+#testnet
+
+algorithm: scrypt
+merkle hash: 89c6a8fac84a6bf0886a0c9cb269f5cd8a0207aaa5398d969c76af6e5fac5689
+pszTimestamp: start test fork 06/08/2021 15/00
+pubkey: 048e13f060cc67d113e68baf0400bb0b37fbdce7a32a6f84f2ae30ae1f9868c20ca30b315607f4736f290e13a69ae54555d02eb8b51f41403494d10a0da631e5d0
+time: 1628683201
+bits: 0x1e0ffff0
+nonce: 790930
+genesis hash: c6e779844f09c47ee8d282989efb74da3b8dcf8d2cb4a01a8d7163bdc3606154
+
+#regnet
+
+algorithm: scrypt
+merkle hash: 89c6a8fac84a6bf0886a0c9cb269f5cd8a0207aaa5398d969c76af6e5fac5689
+pszTimestamp: start test fork 06/08/2021 15/00
+pubkey: 048e13f060cc67d113e68baf0400bb0b37fbdce7a32a6f84f2ae30ae1f9868c20ca30b315607f4736f290e13a69ae54555d02eb8b51f41403494d10a0da631e5d0
+time: 1628683202
+bits: 0x207fffff
+nonce: 1
+genesis hash: fd2dfc6f7edd507465a61477a1c96a7afdf279887be71520200691149a206af0
